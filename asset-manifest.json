@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cartola/static/css/main.9f2bab7d.css",
+    "main.js": "/cartola/static/js/main.42696075.js",
+    "index.html": "/cartola/index.html",
+    "main.9f2bab7d.css.map": "/cartola/static/css/main.9f2bab7d.css.map",
+    "main.42696075.js.map": "/cartola/static/js/main.42696075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f2bab7d.css",
+    "static/js/main.42696075.js"
+  ]
+}
