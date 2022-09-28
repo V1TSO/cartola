@@ -1,7 +1,7 @@
 {
   "name": "cartola",
   "version": "0.1.0",
-  "homepage": "https://v1tso.github.io/cartola",
+  "homepage": "https://V1TSO.github.io/cartola",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
